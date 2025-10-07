@@ -1,0 +1,58 @@
+.first{
+    background-image: url(front.jpg);
+    margin-top: 10px;
+    margin-left: 790px;
+    background-size: 650px 950px;
+    background-repeat: no-repeat;
+    width: 650px;
+    height: 950px;
+    border-style:groove;
+    border:solid 10px black;
+    box-shadow: inset 0 0 0 5px red;
+    border-radius:2%;
+    justify-content: center;
+}
+.first .heading h2 {
+    color: darkturquoise;
+    text-decoration:underline;
+    margin-left:8px;
+}
+.first .title h1 {
+    color:cornsilk;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.first .title h3 {
+    color:darksalmon;
+    font-size: 20px;
+    font-style: oblique;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+.first .photo img {
+    margin-left:450px;
+}
+.first .title pre {
+    color:aliceblue;
+    font-style: oblique;
+    font-size: 20px;
+    margin-left:60px;
+}
+.first .michio img {
+    margin-left: 40px;
+}
+.first .horizontal-line {
+  border-top: 5px solid red; 
+  width: 100%; 
+  margin: 10px 0; 
+}
+.first .author {
+    margin-left: 40px;
+    color:lightcyan;
+    font-style: oblique;
+    font-size: 20px;
+}
+.name h1{
+    text-align: center;
+}
